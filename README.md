@@ -1,1 +1,5 @@
-# donjon
+# Donjon generator
+
+```
+npm run watch
+```
